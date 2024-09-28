@@ -100,7 +100,7 @@
 * [OnionPlay](https://onionplay.se/) - Movies / TV / 720p / [Clones](https://onionplay.network/)
 * [NetMirror](https://pcmirror.cc/home) - Movies / TV / 720p
 * [UniqueStream](https://uniquestream.net/) - Movies / TV / 720p
-* [Show Flix](https://showflix.xyz/lan/movie/English) - Movies / TV / 1080p / Switch Audio Source in Settings
+* [Show Flix](https://showflix.xyz/lan/movEnglish) - Movies / TV / 1080p / Switch Audio Source in Settings
 * [StreamLord](http://www.streamlord.com/) - Movies / TV / 1080p
 * [Tubi](https://tubitv.com) - Movies / TV / 720p / Use Adblock / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv) / US Only
 * [Gir Society](https://discord.gg/WHxeZ3aTtb) - Movies / TV / Anime / 1080p / Plex Required
